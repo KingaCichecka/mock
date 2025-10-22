@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransportation>
+    <Line>
+        <Number>1</Number>
+        <Type>Tram</Type>
+        <Route>Wzgórza Krzesławskie - Salwator</Route>
+        <Frequency>10</Frequency>
+    </Line>
+    <Line>
+        <Number>8</Number>
+        <Type>Tram</Type>
+        <Route>Borek Fałęcki - Bronowice Małe</Route>
+        <Frequency>12</Frequency>
+    </Line>
+        <Line>
+        <Number>152</Number>
+        <Type>Bus</Type>
+        <Route>Prądnik Czerwony - Olszanica</Route>
+        <Frequency>15</Frequency>
+    </Line>
+    <Line>
+        <Number>304</Number>
+        <Type>Bus</Type>
+        <Route>Dworzec Główny - Wieliczka</Route>
+        <Frequency>20</Frequency>
+    </Line>
+    <Line>
+        <Number>501</Number>
+        <Type>Bus</Type>
+        <Route>Nowy Bieżanów - Cracovia Stadion</Route>
+        <Frequency>10</Frequency>
+    </Line>
+        <Line>
+        <Number>52</Number>
+        <Type>Tram</Type>
+        <Route>Czerwone Maki - Os. Piastów</Route>
+        <Frequency>15</Frequency>
+    </Line>
+</PublicTransportation>
