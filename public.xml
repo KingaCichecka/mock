@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransportation>
+    <Line>
+        <Number system="MPK" format="int">1</Number>
+        <Type category="vehicle" mode="tram">Tram</Type>
+        <Route start="Wzgórza Krzesłowskie" end="Salwator">Main tram line</Route>
+        <Frequency unit="min" punctuality="true">10</Frequency>
+    </Line>
+    <Line>
+        <Number system="MPK" format="int">8</Number>
+        <Type category="vehicle" mode="tram">Tram</Type>
+        <Route start="Bronowice Małe" end="Borek Fałęcki">Main tram line</Route>
+        <Frequency unit="min" punctuality="true">12</Frequency>
+    </Line>
+    <Line>
+        <Number system="MPK" format="int">152</Number>
+        <Type category="vehicle" mode="Bus">Bus</Type>
+        <Route start="Prądnik Czerwony" end="Olszanica">Main tram line</Route>
+        <Frequency unit="min" punctuality="true">15</Frequency>
+    </Line>
+    <Line>
+        <Number system="MPK" format="int">304</Number>
+        <Type category="vehicle" mode="Bus">Bus</Type>
+        <Route start="Dworzec Główny" end="Wieliczka">Main tram line</Route>
+        <Frequency unit="min" punctuality="false">20</Frequency>
+    </Line>
+    <Line>
+        <Number system="MPK" format="int">501</Number>
+        <Type category="vehicle" mode="Bus">Bus</Type>
+        <Route start="Nowy Bieżanów" end="Cracovia Stadion">Main tram line</Route>
+        <Frequency unit="min" punctuality="false">10</Frequency>
+    </Line>
+    <Line>
+        <Number system="MPK" format="int">52</Number>
+        <Type category="vehicle" mode="tram">Tram</Type>
+        <Route start="Czerwone Maki" end="Os. Piastów">Main tram line</Route>
+        <Frequency unit="min" punctuality="true">15</Frequency>
+    </Line>
+</PublicTransportation>
